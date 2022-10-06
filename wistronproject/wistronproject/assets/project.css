@@ -1,0 +1,85 @@
+@font-face {
+    font-family: '字體';
+    src: url('jf-jinxuan-book-2.otf');
+}
+
+.navbar button {
+    margin: 0 10px;
+    text-decoration: none;
+    border: 1px solid #2E3651;
+    background-color: #fff;
+    font-size: 24px;
+    font-family: '字體';
+}
+
+#mainbutton {
+    position: absolute;
+    background-color: #3B8E7E;
+    margin: 8px 50px;
+    text-decoration: none;
+    color: #111111;
+    border: 1px solid #2E3651;
+    background-color: #fff;
+    font-size: 24px;
+    font-family: '字體';
+}
+
+#Laborthreemonth,
+#Laborsixmonth,
+#Labortenmonth,
+#Diversitythreemonth,
+#Diversitysixmonth,
+#Diversitytenmonth {
+    width: 140px;
+    border: 2px solid #2E3651;
+    border-radius: 30px;
+    font-family: '字體';
+    background-color: #fff;
+}
+
+#Diversitynowyear p,
+#Diversitynowmonth p,
+#Labornowyear p,
+#Labornowmonth p {
+    line-height: 42px;
+}
+
+#Diversitynowyear .h-50,
+#Diversitynowmonth .h-50 {
+    background: #FFF3F5;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    border-radius: 32px;
+}
+
+#Diversitythreey .h-50,
+#Diversityfivey .h-50,
+#Diversityteny .h-50,
+#Diversitythreem .h-50,
+#Diversitysixm .h-50,
+#Diversitytenm .h-50 {
+    background: #FFF3F5;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    width: 470px;
+    border-radius: 32px;
+}
+
+#Labornowyear .h-50,
+#Labornowmonth .h-50 {
+    background: #F5FDFF;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    border-radius: 32px;
+}
+
+#Laborthreey .h-50,
+#Laborfivey .h-50,
+#Laborteny .h-50,
+#Laborthreem .h-50,
+#Laborsixm .h-50,
+#Labortenm .h-50 {
+    background: #F5FDFF;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+    width: 470px;
+    border-radius: 32px;
+}
